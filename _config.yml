@@ -1,0 +1,17 @@
+title: ファミリーチケット
+description: 子どものスクリーンタイムをチケット制で管理するiOSアプリ。プライバシーポリシー・利用規約・サポート。
+theme: jekyll-theme-cayman
+lang: ja
+
+baseurl: "/family-ticket-legal"
+url: "https://matntntn.github.io"
+
+show_downloads: false
+github:
+  is_user_page: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
