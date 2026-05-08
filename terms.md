@@ -84,5 +84,5 @@ permalink: /terms/
 
 本規約に関するご質問・お問い合わせは、以下の方法でご連絡ください。
 
-- **メール**: {{CONTACT_EMAIL}}
+- **メール**: [familyticket.admin@gmail.com](mailto:familyticket.admin@gmail.com)
 - **X (Twitter)**: 準備中
